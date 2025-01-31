@@ -1,0 +1,3 @@
+*Mesh (game ready): A properly triangulated mesh ready for import into a game engine. Mesh (High Poly): A mesh far beyond the poly count of any game engine. 
+
+Quad (Data Structure): Quads must be maintained to refrain from pinching or other artifacts. Used for baking Ao, Nrml, Disp, Bmp, and Hgt maps. Quads are defined as two triangles in AlmondShell/Engine. For 2D Image and Font Rendering.
